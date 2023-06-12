@@ -1,7 +1,7 @@
 package main
 
 import (
-	"firstModule/screams"
+	"hello_go/screams"
 
 	log "github.com/sirupsen/logrus"
 )
