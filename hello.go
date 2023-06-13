@@ -1,7 +1,7 @@
 package main
 
 import (
-	"hello_go/screams"
+	"github.com/baswunderlich/hello_go/screams"
 
 	log "github.com/sirupsen/logrus"
 )
