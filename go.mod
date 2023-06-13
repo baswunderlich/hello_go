@@ -1,4 +1,4 @@
-module hello_go
+module github.com/baswunderlich/hello_go
 
 go 1.18
 
